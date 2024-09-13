@@ -1,1 +1,2 @@
-# FinallyStartingProperly
+# Simple-Unity-Scripts
+I will be adding more advanced things over time...
